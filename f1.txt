@@ -1,0 +1,3 @@
+
+hey my name is prithvi
+this is a practice statement for the git assignment
